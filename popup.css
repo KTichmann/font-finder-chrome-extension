@@ -1,0 +1,15 @@
+button {
+  background-color: white;
+  font-size: 10px;
+  font-family: Bungee, helvetica;
+  width: 100px;
+  color: black;
+  margin: 0px;
+  padding: 0px;
+}
+button :hover {
+  background-color: grey;
+}
+.active {
+  background-color: grey;
+}
